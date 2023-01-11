@@ -1,6 +1,6 @@
 # stat3060-hw3
 
-## Embed plotly visualization
+Embed plotly visualization
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
